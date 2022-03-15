@@ -2,7 +2,7 @@
 
 <img src="./assets/assets/convert-currency.jpg" alt="convert currency interface">
 
-> Projeto da Interface Login finalizado.
+> Projeto do Conversor de moeda finalizado.
 
 ### Ajustes e melhorias
 
